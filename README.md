@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naoki! 
 - 👀 I’m interested in building and coding ideas to realization! 
-- 🌱 I’m currently learning ruby, javascript, and swift
+- 🌱 I’m currently learning ruby, javascript, and react
 
 <!---
 iamnaokitakahashi/iamnaokitakahashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

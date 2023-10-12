@@ -2,9 +2,7 @@
 - 👀 I’m interested in building and coding ideas to realization! 
 - 🌱 I’m currently improving my ruby, rails, javascript, and react tech knowledge.
 
-I'm not stopping there! I've recently embarked on a journey into the captivating realm of iOS and mobile development. My passion for crafting sleek, innovative, and user-friendly mobile applications has pushed me to dive headfirst into this exciting field.
-
-Whether it's crafting elegant user interfaces, delving into the intricacies of app architecture, or fine-tuning the performance of mobile apps, you can bet that I'm all ears for everything iOS. So, while I'm honing my skills in multiple languages, my heart is set on mastering the art of mobile development.
+I'm not stopping there! I've recently embarked on a journey into the captivating realm of iOS and mobile development. My passion for crafting sleek, innovative, and user-friendly mobile applications has pushed me to dive headfirst into this exciting field. So, while I'm honing my skills in multiple languages, my heart is set on mastering the art of mobile development.
 
 - 📱 Now learning Swift, SwiftUI, and SwiftData
 
